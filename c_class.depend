@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1754390420 source:c:\users\mcquendie\onedrive\documents\c programming\c_class\section3.c
+	<stdio.h>
+	<stdlib.h>
+
+1753788277 source:c:\users\mcquendie\onedrive\documents\c programming\c_class\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1754642430 source:c:\users\mcquendie\onedrive\documents\c programming\c_class\section 4.c
+	<stdio.h>
+	<stdlib.h>
+
+1754998120 source:c:\users\mcquendie\onedrive\documents\c programming\c_class\section5.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
