@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 
-int main(){
+int main7(){
     // Arrays
 
     // Declare an array
