@@ -1,0 +1,1 @@
+//change the value of 7 to 2 using pointer arithmetic
