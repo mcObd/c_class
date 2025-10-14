@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){
+int main8(){
     //Pointers
     //Syntax : data_type *name;
   /*  int var1 = 2025, temp;

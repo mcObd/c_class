@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main(){ 
+int main9(){ 
 
     int i;
     for (i = 1; i <= 10; i++) 
